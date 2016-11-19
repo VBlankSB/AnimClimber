@@ -1,0 +1,40 @@
+.container {
+    width: 1300px;
+    height: 578px;
+    border: 2px solid #333;
+    overflow: hidden;
+    position: relative;
+    margin: 100px auto;
+}
+.bg {
+    z-index: 10;
+    position: relative;
+}
+#grimp1, #grimp2, #grimp3, #grimp4, #grimp5, #grimp6 {
+    z-index: 20;
+    position: absolute;
+}
+#grimp1 {
+    top: 0px;
+    left: 36px;
+}
+#grimp2 {
+    top: 0px;
+    left: 187px;
+}
+#grimp3 {
+    top: 0px;
+    left: 441px;
+}
+#grimp4 {
+    top: 0px;
+    left: 645px;
+}
+#grimp5 {
+    top: 0px;
+    left: 906px;
+}
+#grimp6 {
+    top: 0px;
+    left: 1054px;
+}
