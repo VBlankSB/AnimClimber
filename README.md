@@ -6,4 +6,4 @@ An animation for site web philingrimp
 
 A training to use jQuery
 
-[Climber Animation](https://vblanksb.github.io/AnimClimber/)
+[Climber Animation](https://valerieblanchard.github.io/AnimClimber/)
